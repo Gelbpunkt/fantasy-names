@@ -15,7 +15,7 @@ def make_name(type):
             "Alpha",
             "Amnesia",
             "Anduril",
-            "Anger�s Tear",
+            "Anger's Tear",
             "Apocalypse",
             "Armageddon",
             "Arondite",
